@@ -5,3 +5,4 @@ pandas
 numpy
 jinja2
 python-multipart
+matplotlib
